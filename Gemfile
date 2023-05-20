@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby "3.0.0"
+ruby "3.1.3"
 gem 'bootstrap', '~> 5.2.0'
 gem 'activestorage'
 gem "font-awesome-sass", "~> 6.4.0"
